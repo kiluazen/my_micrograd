@@ -1,0 +1,13 @@
+--2023-06-16 16:10:06--  https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 2405:200:1607:2820:41::36, 49.44.79.236
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|2405:200:1607:2820:41::36|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|49.44.79.236|:443... failed: Connection timed out.
+Retrying.
+
+--2023-06-16 16:14:29--  (try: 2)  https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|2405:200:1607:2820:41::36|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|49.44.79.236|:443... failed: Connection timed out.
+Retrying.
+
+--2023-06-16 16:18:52--  (try: 3)  https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|2405:200:1607:2820:41::36|:443... 
