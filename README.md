@@ -20,6 +20,8 @@ This repository focuses on implementing NLP concepts and models from scratch usi
 
 3. **Transformer**: The "shakespeare_transformer.ipynb" notebook implements a transformer model trained on concatenated Shakespearean works. It includes classes for Multi-Head Attention, Position Embeddings, and other components, built on top of the previously mentioned code.
 
+4. **spiral.ipynb**: The "spiral.ipynb" notebook contains code for training a model on a spiral dataset. The code involves data preprocessing, loss computation, and gradient descent optimization. The notebook visualizes the decision boundary of the trained model.
+
 ## Usage
 
 Using this repository is straightforward. Simply read the code and run the cells in the Jupyter Notebooks. Each notebook is designed to be self-explanatory, allowing you to explore the code, experiment with the models, and gain a deeper understanding of NLP concepts.
